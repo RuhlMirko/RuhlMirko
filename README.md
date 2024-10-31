@@ -1,5 +1,12 @@
 # Hi there 👋
 
+Hi, my name is Mirko and I'm a python developer that loves to create things. I really like graphic design, I have developed a lot of web and desktop apps using modern day graphics and themes, with technologies such as bootstrap 5, css, tailwind, ttkbootstrap, tkinter and pysimple.
+
+## Always learning
+I'm currently learning Html, Css and Javascript. But in the future I would love to keep learning mobile development with kotlin and android studio
+
+
+
 <!--
 **RuhlMirko/RuhlMirko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
