@@ -5,6 +5,11 @@ Hi, my name is Mirko and I'm a python developer that loves to create things. I r
 ## Always learning
 I'm currently learning Html, Css and Javascript. But in the future I would love to keep learning mobile development with kotlin and android studio
 
+## Tools I use
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />         
+</p>
 
 
 <!--
