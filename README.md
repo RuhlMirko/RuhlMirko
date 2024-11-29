@@ -6,7 +6,7 @@ Hi, my name is Mirko and I'm a python developer that loves to create things. I r
 I'm currently learning Html, Css and Javascript. But in the future I would love to keep learning mobile development with kotlin and android studio
 
 ## Tools I use
-<p align="left">
+<p align="center">
    
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40"/>
