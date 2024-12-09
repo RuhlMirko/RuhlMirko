@@ -16,7 +16,7 @@ Hi, my name is Mirko and I'm a Full Stack Web developer that loves to create thi
 I'm proficient in web development, so if you want some websites let me know
 I'm currently learning Html, Css and Javascript. But in the future I would love to keep learning mobile development with kotlin and android studio
 
-## Tools I use
+## Tools I use daily
 <p align="center">
 
 
