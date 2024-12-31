@@ -40,7 +40,18 @@ I'm currently learning Html, Css and Javascript. But in the future I would love 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height="40" width="40"/>
 </p>
 
+## My best as of 2024
 
+<ul>
+   * Liars dice
+   * Black jack
+   * Pomodoro Timer
+   * YT converter
+</ul>
+
+## Goals for 2025
+Making way more JavaScript projects and refining full stack skills
+Start to learn android development 
 <!--
 **RuhlMirko/RuhlMirko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
