@@ -1,32 +1,33 @@
 <a href="https://git.io/typing-svg"><img width='700px' src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13CCF7&vCenter=true&width=435&lines=Full+Stack+Developer...;Mirko+Joel+Ruhl" alt="Typing SVG" /></a>
 
+
 Hi, my name is Mirko and I'm a Full Stack Web developer that loves to create things. I really like graphic design, I have developed a lot of web and desktop apps using modern day graphics and themes, with technologies such as bootstrap 5, css, tailwind, ttkbootstrap, tkinter and pysimple.
 <br />
-<br />
-<div>
+<p align="center">
    <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-Advanced-yellow?style=flat-square&logo=javascript">
    <img alt="Static Badge" src="https://img.shields.io/badge/Python-Intermidiate-blue?style=flat-square&logo=python">
    <img alt="Static Badge" src="https://img.shields.io/badge/Android-Beginner-darkgreen?style=flat-square&logo=android">
+</p>
 
-
-</div>
-
-
-## Always learning
+### 📚 Always learning
 I'm proficient in web development, so if you want some websites let me know
 I'm currently learning Html, Css and Javascript. But in the future I would love to keep learning mobile development with kotlin and android studio
 
-### 👀 My GitHub Stats
 
-<div style="display:flex align-items:center; justify-content:center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuhlMirko&theme=apprentice" alt="GitHub Stats" width="400px" />
+
+## 👀 My GitHub Stats
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ecru-theta.vercel.app?user=RuhlMirko&theme=apprentice" alt="GitHub Streak" width='400px' /></a>
    <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuhlMirko&layout=compact&theme=apprentice" alt="Top Langs" width="400px"/>
    <br>
   **Dont forget to check out my GitHub repositories:**
-</div>
+</p>
 
-## Tools I use daily
+
+
+## 🛠 Tools I use
 <p align="center">
 
 
@@ -50,7 +51,7 @@ I'm currently learning Html, Css and Javascript. But in the future I would love 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height="40" width="40"/>
 </p>
 
-## My best as of 2024
+## 💥 My best of 2024
 
 <ul>
    * Liars dice
