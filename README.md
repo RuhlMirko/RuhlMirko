@@ -45,10 +45,9 @@ I'm currently learning Html, Css and Javascript. But in the future I would love 
 ## 💥 My best of 2024
 
 <ul>
-   * Liars dice
-   * Black jack
-   * Pomodoro Timer
-   * YT converter
+   <li><a href="https://github.com/RuhlMirko/js-lying-dice"> Liars dice </a> </li> 
+   <li><a href= "https://github.com/RuhlMirko/javascript-blackjack " >Black jack</a></li>
+   <li> <a href="https://github.com/RuhlMirko/pomodoro-timer" > Pomodoro Timer</a></li>
 </ul>
 
 ## Goals for 2025
