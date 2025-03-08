@@ -48,6 +48,7 @@ I'm currently learning Html, Css and Javascript. But in the future I would love 
    <li><a href="https://github.com/RuhlMirko/js-lying-dice"> Liars dice </a> </li> 
    <li><a href= "https://github.com/RuhlMirko/javascript-blackjack " >Black jack</a></li>
    <li> <a href="https://github.com/RuhlMirko/pomodoro-timer" > Pomodoro Timer</a></li>
+   <li> <a href="https://github.com/RuhlMirko/wallpaper-engine">Web wallpapers</a></li>
 </ul>
 
 ## Goals for 2025
