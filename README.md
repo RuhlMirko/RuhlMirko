@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/SelfMadeSystem/SelfMadeSystem/4db1454ab1db74ec58ea2b64cf026e6c67015c2d/wave-top.svg">
+
 <p align='center'>
    <a href="https://git.io/typing-svg"><img width='800px' src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13CCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mirko+Joel+Ruhl" alt="Typing SVG"/></a>
       <br>
@@ -68,3 +70,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://raw.githubusercontent.com/SelfMadeSystem/SelfMadeSystem/main/wave-bottom.svg">
