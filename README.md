@@ -45,13 +45,14 @@ I'm currently learning Html, Css and Javascript. But in the future I would love 
 </p>
 
 ## 💥 My best of 2024
-
-<ul>
+<div style='display:flex'> 
+<ul align='center'>
    <li><a href="https://github.com/RuhlMirko/js-lying-dice"> Liars dice </a> </li> 
    <li><a href= "https://github.com/RuhlMirko/javascript-blackjack " >Black jack</a></li>
    <li> <a href="https://github.com/RuhlMirko/pomodoro-timer" > Pomodoro Timer</a></li>
    <li> <a href="https://github.com/RuhlMirko/wallpaper-engine">Web wallpapers</a></li>
 </ul>
+</div>
 
 ## Goals for 2025
 Making way more JavaScript projects and refining full stack skills
