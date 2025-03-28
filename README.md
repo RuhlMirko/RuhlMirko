@@ -72,3 +72,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://raw.githubusercontent.com/SelfMadeSystem/SelfMadeSystem/main/wave-bottom.svg">
+
+### this is a commit justo to keep the commit streak going
+I didn't have time to code today but I really wanted to so I will delete this section later
