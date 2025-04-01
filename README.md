@@ -75,3 +75,6 @@ Here are some ideas to get you started:
 
 ### this is a commit justo to keep the commit streak going
 I didn't have time to code today but I really wanted to so I will delete this section later
+
+another day without commits. this time was because i was moving out
+in two weeks i will edit this readme again
