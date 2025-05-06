@@ -46,7 +46,7 @@ I'm currently learning Html, Css and Javascript. But in the future I would love 
 
 ## 💥 My best of 2024
 <div style='display:flex'> 
-<ul align='center'>
+<ul>
    <li><a href="https://github.com/RuhlMirko/js-lying-dice"> Liars dice </a> </li> 
    <li><a href= "https://github.com/RuhlMirko/javascript-blackjack " >Black jack</a></li>
    <li> <a href="https://github.com/RuhlMirko/pomodoro-timer" > Pomodoro Timer</a></li>
@@ -72,19 +72,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://raw.githubusercontent.com/SelfMadeSystem/SelfMadeSystem/main/wave-bottom.svg">
-
-### this is a commit justo to keep the commit streak going
-I didn't have time to code today but I really wanted to so I will delete this section later
-
-another day without commits. this time was because i was moving out
-in two weeks i will edit this readme again 
-
-
-New line of code to do a new commit
-Today I'm kinda tired to code, but tomorrow I will do a little bit. Promise
-
-Another day that I could not make a full commit
-Tomorrow will probably use this again
-Maybe I can do one or two commit at least
-
-## another another dollar
