@@ -72,3 +72,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://raw.githubusercontent.com/SelfMadeSystem/SelfMadeSystem/main/wave-bottom.svg">
+
+## New Commit of the day
+just some text to keep the commit streak going
