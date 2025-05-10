@@ -75,3 +75,6 @@ Here are some ideas to get you started:
 
 ## New Commit of the day
 just some text to keep the commit streak going
+
+### Another one bites the dust
+Today I could not make a commit since I kept doing lessons on scrimba
