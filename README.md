@@ -81,3 +81,6 @@ Today I could not make a commit since I kept doing lessons on scrimba
 
 ### Slept very bad last night
 I haven't sleep good enough, hopefully I can do something tomorrow
+
+### It's 1am and I need to go to the gym tomorrow
+This is kinda a band-aid commit just to keep the github streak going
