@@ -80,3 +80,6 @@ making another small commit to keep the streak going, today I ahave a very busy 
 ### Mini vacation
 these next few days I will do commits in this file since i don't have access to a computer that i can use to make some code
 
+Today I almost forgot to make another commit.
+I should buy a laptop or something to bring while traveling.
+
