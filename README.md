@@ -76,11 +76,3 @@ Here are some ideas to get you started:
 ## New Commit of the day
 Making a new commit just to have 6 commits on this day
 making another small commit to keep the streak going, today I ahave a very busy day. So i really dont have the time to code anything meaningful
-
-### Mini vacation
-these next few days I will do commits in this file since i don't have access to a computer that i can use to make some code
-
-Today I almost forgot to make another commit.
-I should buy a laptop or something to bring while traveling.
-
-Today I will come back home, hopefully I can code something on this day
