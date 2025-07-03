@@ -79,4 +79,6 @@ making another small commit to keep the streak going, today I ahave a very busy 
 
 mini update
 
+
+today i tried to do some code but I ended up spending a little too much time in scrimba
 emergency commit to keep the streak going. today I overslept and woke up too late
