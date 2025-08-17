@@ -22,7 +22,7 @@ I'm currently learning Html, Css and Javascript. But in the future I would love 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ecru-theta.vercel.app?user=RuhlMirko&theme=github-dark-blue" alt="GitHub Streak" width='400px' /></a>
    <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuhlMirko&layout=compact&theme=tokyonight" alt="Top Langs" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuhlMirko&layout=compact&theme=holi" alt="Top Langs" width="400px"/>
    <br>
   **Dont forget to check out my GitHub repositories:**
 </p>
