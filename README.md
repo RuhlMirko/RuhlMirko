@@ -8,7 +8,7 @@
    <img alt="Static Badge" src="https://img.shields.io/badge/Android-Beginner-darkgreen?style=flat-square&logo=android">   
 </p>
 
-Hi, my name is Mirko and I'm a Full Stack Web developer that loves to create things. I really like graphic design, I have developed a lot of web and desktop apps using modern day graphics and themes, with technologies such as bootstrap 5, css, tailwind, ttkbootstrap, tkinter and pysimple.
+Hi, my name is Mirko and I'm a Full Stack Web developer that loves graphic design and I have developed a lot of web and desktop apps using modern graphics design principles, with technologies such as bootstrap 5, css, tailwind, ttkbootstrap, tkinter and pysimple.
 <br />
 
 ### 📚 Always learning
@@ -74,11 +74,3 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/SelfMadeSystem/SelfMadeSystem/main/wave-bottom.svg">
 
 ## New Commit of the day
-Making a new commit just to have 6 commits on this day
-making another small commit to keep the streak going, today I ahave a very busy day. So i really dont have the time to code anything meaningful
-
-mini update
-
-
-today i tried to do some code but I ended up spending a little too much time in scrimba
-emergency commit to keep the streak going. today I overslept and woke up too late
