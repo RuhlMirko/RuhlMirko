@@ -3,9 +3,9 @@
 <p align='center'>
    <a href="https://git.io/typing-svg"><img width='800px' src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13CCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mirko+Joel+Ruhl" alt="Typing SVG"/></a>
       <br>
-   <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-Advanced-yellow?style=flat-square&logo=javascript">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-Advanced-blue?style=flat-square&logo=javascript">
    <img alt="Static Badge" src="https://img.shields.io/badge/Python-Intermidiate-blue?style=flat-square&logo=python">
-   <img alt="Static Badge" src="https://img.shields.io/badge/Android-Beginner-darkgreen?style=flat-square&logo=android">   
+   <img alt="Static Badge" src="https://img.shields.io/badge/Android-Beginner-blue?style=flat-square&logo=android">   
 </p>
 
 Hi, my name is Mirko and I'm a Full Stack Web developer that loves graphic design and I have developed a lot of web and desktop apps using modern graphics design principles, with technologies such as bootstrap 5, css, tailwind, ttkbootstrap, tkinter and pysimple.
