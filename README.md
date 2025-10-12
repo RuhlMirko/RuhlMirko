@@ -4,9 +4,9 @@
    <a href="https://git.io/typing-svg"><img width='800px' src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13CCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mirko+Joel+Ruhl" alt="Typing SVG"/></a>
       <br>
       
-   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript">   
-   <img alt="Static Badge" src="https://img.shields.io/badge/Python-lightgrey?style=for-the-badge&logo=Python">   
-   <img alt="Static Badge" src="https://img.shields.io/badge/Android-grey?style=for-the-badge&logo=android">
+   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript">   
+   <img alt="Static Badge" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python">   
+   <img alt="Static Badge" src="https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android">
    
    <!-- <img alt="Static Badge" src="https://img.shields.io/badge/with%20%Android-Beginner-blue?style=flat-square&logo=android"> -->
 </p>
