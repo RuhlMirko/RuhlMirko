@@ -3,9 +3,12 @@
 <p align='center'>
    <a href="https://git.io/typing-svg"><img width='800px' src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13CCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mirko+Joel+Ruhl" alt="Typing SVG"/></a>
       <br>
-   <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-Advanced-blue?style=flat-square&logo=javascript">
-   <img alt="Static Badge" src="https://img.shields.io/badge/Python-Intermidiate-blue?style=flat-square&logo=python">
-   <img alt="Static Badge" src="https://img.shields.io/badge/Android-Beginner-blue?style=flat-square&logo=android">   
+      
+   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript">   
+   <img alt="Static Badge" src="https://img.shields.io/badge/Python-lightgrey?style=for-the-badge&logo=Python">   
+   <img alt="Static Badge" src="https://img.shields.io/badge/Android-grey?style=for-the-badge&logo=android">
+   
+   <!-- <img alt="Static Badge" src="https://img.shields.io/badge/with%20%Android-Beginner-blue?style=flat-square&logo=android"> -->
 </p>
 
 Hi, my name is Mirko and I'm a Full Stack Web developer that loves graphic design and I have developed a lot of web and desktop apps using modern graphics design principles, with technologies such as bootstrap 5, css, tailwind, ttkbootstrap, tkinter and pysimple.
@@ -30,19 +33,29 @@ I'm currently learning Html, Css and Javascript. But in the future I would love 
 
 
 ## 🛠 Tools I use
-<p align="center"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" width="40"/>
-     <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="40" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="40" width="40"/>
-     <br>   
+<div align="center">     
+
+### Web dev:
+<div style='display:flex; justify-content:center;gap:1vw; margin-bottom:1rem;'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height="40" width="40"/>
+</div>
+
+### Mobile dev:
+<div style='display:flex; justify-content:center;gap:1vw; margin-bottom:1rem;'>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="40" width="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="40" width="40"/>
+</div>
+
+<div style='display:flex; justify-content:center;gap:1vw; margin-bottom:1rem;'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" width="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height="40" width="40"/>
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40"/>  
+</div>
+</div>
 
 ## 💥 My best of 2024
 <ul>
@@ -68,7 +81,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-new update for reach streak
 -->
 <img src="https://raw.githubusercontent.com/SelfMadeSystem/SelfMadeSystem/main/wave-bottom.svg">
