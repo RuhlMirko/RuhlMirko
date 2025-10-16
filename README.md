@@ -35,7 +35,7 @@ I'm currently learning Html, Css and Javascript. But in the future I would love 
 ## 🛠 Tools I use
 <div align="center">     
 
-### Web dev:
+### Web dev Stack:
 <div style='display:flex; justify-content:center;gap:1vw; margin-bottom:1rem;'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40"/>
@@ -43,6 +43,7 @@ I'm currently learning Html, Css and Javascript. But in the future I would love 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" width="40"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40"/>  
 </div>
 
 ### Mobile dev:
@@ -52,8 +53,8 @@ I'm currently learning Html, Css and Javascript. But in the future I would love 
 </div>
 
 <div style='display:flex; justify-content:center;gap:1vw; margin-bottom:1rem;'>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" width="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40"/>  
+  <a href="https://www.linkedin.com/in/mirko-ruhl-730581200/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" width="40"/></a>
+  
 </div>
 </div>
 
