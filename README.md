@@ -10,11 +10,9 @@
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   [![Android](https://img.shields.io/badge/Android-bDdC14?style=for-the-badge&logo=android&logoColor=black)](https://developer.android.com/)    
-  
-  <br>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=RuhlMirko&color=blue&style=flat-square)
-  [![GitHub followers](https://img.shields.io/github/followers/RuhlMirko?style=social)](https://github.com/RuhlMirko)
+    
+  ![Profile Views](https://komarev.com/ghpvc/?username=RuhlMirko&color=blue&style=for-the-badge)
+  [![GitHub followers](https://img.shields.io/github/followers/RuhlMirko?&color=white&style=for-the-badge)](https://github.com/RuhlMirko)
 </div>
 
 ---
