@@ -1,11 +1,11 @@
-# 👋 Hello, I'm Mirko Joel Ruhl
+# Mirko Joel Ruhl
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13CCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;UI%2FUX+Designer;Always+Learning" alt="Typing animation displaying my roles"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&letterSpacing=2px&duration=2500&pause=500&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Full+Stack+Developer;UI%2FUX+Designer;Always+learning" alt="Typing animation displaying my roles"/>
   </a>
   
-  <br><br>
+  <br>
   
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -31,23 +31,6 @@
 ## 🚀 About Me
 
 I'm a **Full Stack Web Developer** with a passion for creating beautiful, functional applications that merge modern design principles with cutting-edge technology. My journey in development spans across web and desktop applications, with a growing interest in mobile development.
-
-```javascript
-const mirko = {
-  code: ["JavaScript", "Python", "HTML", "CSS", "Kotlin"],
-  askMeAbout: ["web dev", "UI/UX design", "graphic design", "app development"],
-  technologies: {
-    frontEnd: ["React", "Bootstrap 5", "Tailwind CSS", "HTML5", "CSS3"],
-    backEnd: ["Python", "Streamlit"],
-    mobile: ["Android Studio", "Kotlin"],
-    desktop: ["Tkinter", "PySimpleGUI", "ttkbootstrap"],
-    tools: ["Git", "VS Code", "Figma"],
-  },
-  currentFocus:
-    "Building interactive web applications and learning mobile development",
-  funFact: "I love combining technical skills with creative design thinking!",
-};
-```
 
 ### 🎯 What I Do
 
