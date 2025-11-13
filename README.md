@@ -1,21 +1,17 @@
 # Mirko Joel Ruhl
-
-<div align="center">
+<div align="center">   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&letterSpacing=2px&duration=2500&pause=500&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Full+Stack+Developer;UI%2FUX+Designer;Always+learning" alt="Typing animation displaying my roles"/>
-  </a>
-  
-  <br>
+  </a>  
   
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-  [![Android](https://img.shields.io/badge/Android-bDdC14?style=for-the-badge&logo=android&logoColor=black)](https://developer.android.com/)    
-    
+  [![Android](https://img.shields.io/badge/Android-bDdC14?style=for-the-badge&logo=android&logoColor=black)](https://developer.android.com/)   
   ![Profile Views](https://komarev.com/ghpvc/?username=RuhlMirko&color=blue&style=for-the-badge)
   [![GitHub followers](https://img.shields.io/github/followers/RuhlMirko?&color=white&style=for-the-badge)](https://github.com/RuhlMirko)
 </div>
 
----
+
 
 ## 📖 Table of Contents
 
@@ -26,11 +22,11 @@
 - [Goals for 2025](#-goals-for-2025)
 - [Connect with Me](#-connect-with-me)
 
----
 
 ## 🚀 About Me
-
+<span style="max-width:'40ch'">
 I'm a **Full Stack Web Developer** with a passion for creating beautiful, functional applications that merge modern design principles with cutting-edge technology. My journey in development spans across web and desktop applications, with a growing interest in mobile development.
+</span>
 
 ### 🎯 What I Do
 
@@ -38,8 +34,6 @@ I'm a **Full Stack Web Developer** with a passion for creating beautiful, functi
 - 🎨 **UI/UX Design**: Designing intuitive interfaces with modern design principles
 - 📱 **Mobile Development**: Learning Android development with Kotlin
 - 💻 **Desktop Applications**: Building cross-platform desktop apps with Python
-
----
 
 ## 🛠 Tech Stack
 
@@ -74,7 +68,7 @@ I'm a **Full Stack Web Developer** with a passion for creating beautiful, functi
 
 </div>
 
----
+
 
 ## 📊 GitHub Statistics
 
@@ -84,12 +78,13 @@ I'm a **Full Stack Web Developer** with a passion for creating beautiful, functi
   <img src="https://github-readme-stats.vercel.app/api?username=RuhlMirko&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="48%"/>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuhlMirko&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" width="48%"/>  
   
-  
+  ----
   **📈 Don't forget to explore my GitHub repositories below!**
-  
+
+  <br>
 </div>
 
----
+
 
 ## 🌟 Featured Projects (2024)
 
@@ -104,7 +99,7 @@ I'm a **Full Stack Web Developer** with a passion for creating beautiful, functi
 
 </div>
 
----
+<br>
 
 ## 🎯 Goals for 2025
 
@@ -132,7 +127,7 @@ graph LR
 - **🌐 Portfolio Expansion**: Create 10+ new projects showcasing diverse skills
 - **🤝 Open Source**: Contribute to open-source projects and collaborate with the community
 
----
+
 
 ## 📫 Connect with Me
 
@@ -146,13 +141,13 @@ graph LR
   **🤝 Open to collaborating** on interesting projects and learning opportunities
   
 </div>
-
----
-
+<img src="https://raw.githubusercontent.com/SelfMadeSystem/SelfMadeSystem/main/wave-bottom.svg" alt="Wave decoration"/>
+<!---
 <div align="center">
   
   ### 💫 "Code is like humor. When you have to explain it, it's bad." - Cory House
   
-  <img src="https://raw.githubusercontent.com/SelfMadeSystem/SelfMadeSystem/main/wave-bottom.svg" alt="Wave decoration"/>
+  
   
 </div>
+-->
