@@ -12,6 +12,7 @@
 </div>
 
 
+<br><br>
 
 ## 📖 Table of Contents
 
@@ -21,7 +22,7 @@
 - [Featured Projects](#-featured-projects-2024)
 - [Goals for 2025](#-goals-for-2025)
 - [Connect with Me](#-connect-with-me)
-
+<br>
 
 ## 🚀 About Me
 <span style="max-width:'40ch'">
@@ -34,6 +35,7 @@ I'm a **Full Stack Web Developer** with a passion for creating beautiful, functi
 - 🎨 **UI/UX Design**: Designing intuitive interfaces with modern design principles
 - 📱 **Mobile Development**: Learning Android development with Kotlin
 - 💻 **Desktop Applications**: Building cross-platform desktop apps with Python
+<br>
 
 ## 🛠 Tech Stack
 
@@ -69,22 +71,19 @@ I'm a **Full Stack Web Developer** with a passion for creating beautiful, functi
 </div>
 
 
-
 ## 📊 GitHub Statistics
 
 <div style='display:flex;flex-direction:column;align-items:center;gap:5px;'>
   
   <img src="https://github-readme-streak-stats-ecru-theta.vercel.app?user=RuhlMirko&theme=github-dark-blue" alt="GitHub Streak Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=RuhlMirko&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="48%"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuhlMirko&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" width="48%"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuhlMirko&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" width="48%"/> 
   
   ----
   **📈 Don't forget to explore my GitHub repositories below!**
-
-  <br>
+  <br><br>
+  
 </div>
-
-
 
 ## 🌟 Featured Projects (2024)
 
@@ -99,7 +98,7 @@ I'm a **Full Stack Web Developer** with a passion for creating beautiful, functi
 
 </div>
 
-<br>
+<br><br>
 
 ## 🎯 Goals for 2025
 
