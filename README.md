@@ -1,4 +1,5 @@
 # Mirko Joel Ruhl
+
 <div align="center">   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&letterSpacing=2px&duration=2500&pause=500&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Full+Stack+Developer;UI%2FUX+Designer;Always+learning" alt="Typing animation displaying my roles"/>
@@ -11,7 +12,6 @@
   [![GitHub followers](https://img.shields.io/github/followers/RuhlMirko?&color=white&style=for-the-badge)](https://github.com/RuhlMirko)
 </div>
 
-
 <br><br>
 
 ## 📖 Table of Contents
@@ -22,12 +22,11 @@
 - [Featured Projects](#-featured-projects-2024)
 - [Goals for 2025](#-goals-for-2025)
 - [Connect with Me](#-connect-with-me)
-<br>
+  <br>
 
 ## 🚀 About Me
-<span style="max-width:'40ch'">
+
 I'm a **Full Stack Web Developer** with a passion for creating beautiful, functional applications that merge modern design principles with cutting-edge technology. My journey in development spans across web and desktop applications, with a growing interest in mobile development.
-</span>
 
 ### 🎯 What I Do
 
@@ -35,7 +34,6 @@ I'm a **Full Stack Web Developer** with a passion for creating beautiful, functi
 - 🎨 **UI/UX Design**: Designing intuitive interfaces with modern design principles
 - 📱 **Mobile Development**: Learning Android development with Kotlin
 - 💻 **Desktop Applications**: Building cross-platform desktop apps with Python
-<br>
 
 ## 🛠 Tech Stack
 
@@ -70,20 +68,24 @@ I'm a **Full Stack Web Developer** with a passion for creating beautiful, functi
 
 </div>
 
-
 ## 📊 GitHub Statistics
 
-<div style='display:flex;flex-direction:column;align-items:center;gap:5px;'>
+<div align="center">
   
   <img src="https://github-readme-streak-stats-ecru-theta.vercel.app?user=RuhlMirko&theme=github-dark-blue" alt="GitHub Streak Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=RuhlMirko&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="48%"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuhlMirko&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" width="48%"/> 
-  
-  ----
-  **📈 Don't forget to explore my GitHub repositories below!**
-  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=RuhlMirko&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="48%"/>
   
 </div>
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuhlMirko&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" width="48%"/>
+  
+</div>
+
+---
+
+**📈 Explore my repositories below to see what I'm working on!**
 
 ## 🌟 Featured Projects (2024)
 
@@ -97,8 +99,6 @@ I'm a **Full Stack Web Developer** with a passion for creating beautiful, functi
 | 🖼️ [**Web Wallpapers**](https://github.com/RuhlMirko/wallpaper-engine)     | Dynamic wallpaper collection with interactive elements  | HTML, CSS, JavaScript |
 
 </div>
-
-<br><br>
 
 ## 🎯 Goals for 2025
 
@@ -126,8 +126,6 @@ graph LR
 - **🌐 Portfolio Expansion**: Create 10+ new projects showcasing diverse skills
 - **🤝 Open Source**: Contribute to open-source projects and collaborate with the community
 
-
-
 ## 📫 Connect with Me
 
 <div align="center">
@@ -140,7 +138,12 @@ graph LR
   **🤝 Open to collaborating** on interesting projects and learning opportunities
   
 </div>
-<img src="https://raw.githubusercontent.com/SelfMadeSystem/SelfMadeSystem/main/wave-bottom.svg" alt="Wave decoration"/>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SelfMadeSystem/SelfMadeSystem/main/wave-bottom.svg" alt="Wave decoration"/>
+</div>
 <!---
 <div align="center">
   
