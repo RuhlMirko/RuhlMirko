@@ -6,6 +6,7 @@
   </a>  
   
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![React](https://img.shields.io/badge/React-5799AB?style=for-the-badge&logo=react&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   [![Android](https://img.shields.io/badge/Android-bDdC14?style=for-the-badge&logo=android&logoColor=black)](https://developer.android.com/)   
   ![Profile Views](https://komarev.com/ghpvc/?username=RuhlMirko&color=blue&style=for-the-badge)
