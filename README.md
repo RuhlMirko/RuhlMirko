@@ -7,6 +7,9 @@
   
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![React](https://img.shields.io/badge/React-5799AB?style=for-the-badge&logo=react&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+  [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+  [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
   [![Android](https://img.shields.io/badge/Android-bDdC14?style=for-the-badge&logo=android&logoColor=black)](https://developer.android.com/)   
   ![Profile Views](https://komarev.com/ghpvc/?username=RuhlMirko&color=blue&style=for-the-badge)
