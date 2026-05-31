@@ -92,7 +92,7 @@ I am a Full Stack Developer focused on building polished, practical products tha
 | 🎲 [Liar's Dice](https://github.com/RuhlMirko/js-lying-dice)           | Interactive dice game with strategic gameplay mechanics.       | JavaScript, HTML, CSS |
 | 🃏 [Blackjack Game](https://github.com/RuhlMirko/javascript-blackjack) | Classic card game with smooth animations and game logic.       | JavaScript, HTML, CSS |
 | ⏰ [Pomodoro Timer](https://github.com/RuhlMirko/pomodoro-timer)       | Productivity timer with customizable work and break intervals. | JavaScript, HTML, CSS |
-| 🖼️ [Web Wallpapers](https://github.com/RuhlMirko/wallpaper-engine)     | Dynamic wallpaper collection with interactive effects.         | HTML, CSS, JavaScript |
+| 🖼️ [Comando 99](https://github.com/RuhlMirko/comando99)     | Landing website for an arma 3 community using Astro.         | Astro, CSS, JavaScript |
 
 </div>
 
