@@ -25,12 +25,12 @@
 
 ## About Me
 
-I am a Full Stack Developer focused on building polished, practical products that blend clean engineering with strong UI/UX decisions. I enjoy turning ideas into interactive experiences across web, desktop, and mobile.
+I am a *Full Stack Developer* focused on building polished, practical products that blend clean engineering with strong UI/UX decisions. I enjoy turning ideas into interactive experiences across web, desktop, and mobile.
 
 ## What I Build
 
-- Web applications with modern frontend architecture and responsive interfaces.
-- Backend services and APIs with Node.js and Express.
+- Web applications with modern *frontend* architecture and responsive interfaces.
+- Backend services and APIs with *Node.js* and *Express*.
 - Desktop and automation tools with Python.
 - Mobile apps with Kotlin and Android Studio.
 - Interactive experiences with Godot.
